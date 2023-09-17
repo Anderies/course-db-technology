@@ -1,0 +1,55 @@
+{
+    "universitas": {
+      "nama": "Universitas Bina Nusantara",
+      "lokasi": "DKI Jakarta",
+      "tahun_didirikan": 1965,
+      "situs_web": "http://www.univteknologi.ac.id",
+      "fakultas": [
+        {
+          "nama": "Fakultas Teknik",
+          "departemen": [
+            {
+              "nama": "Departemen Ilmu Komputer",
+              "program_studi": [
+                {
+                  "nama": "Sarjana Ilmu Komputer",
+                  "mata_kuliah": ["Pemrograman Dasar", "Sistem Basis Data", "Struktur Data", "Perancangan Algoritma"]
+                },
+                {
+                  "nama": "Magister Ilmu Komputer",
+                  "mata_kuliah": ["Algoritma Lanjutan", "Manajemen Basis Data", "Kecerdasan Buatan"]
+                }
+              ]
+            },
+            {
+              "nama": "Departemen Teknik Elektro",
+              "program_studi": [
+                {
+                  "nama": "Sarjana Teknik Elektro",
+                  "mata_kuliah": ["Analisis Rangkaian Listrik", "Elektronika Digital", "Sistem Tenaga Listrik"]
+                },
+                {
+                  "nama": "Magister Teknik Elektro",
+                  "mata_kuliah": ["Sistem Kontrol Lanjutan", "Pemrosesan Sinyal Digital"]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "mahasiswa": [
+        {
+          "nama": "Anita Putri",
+          "nomor_mahasiswa": "12345",
+          "jurusan": "Ilmu Komputer",
+          "tahun_pendaftaran": 2020
+        },
+        {
+          "nama": "Budi Setiawan",
+          "nomor_mahasiswa": "67890",
+          "jurusan": "Teknik Elektro",
+          "tahun_pendaftaran": 2021
+        }
+      ]
+    }
+  }
